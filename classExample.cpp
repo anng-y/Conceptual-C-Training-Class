@@ -6,3 +6,7 @@ class Animal {
     int legs;
     std::string name;
 }
+
+int main () {
+    
+}
